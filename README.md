@@ -29,5 +29,3 @@ It is ideal for **SaaS products, subscription services, portfolios, and business
 ⚡ Fast and lightweight  
 
 ---
-
-## 📂 Folder Structure

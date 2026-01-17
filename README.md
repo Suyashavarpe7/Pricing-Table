@@ -1,12 +1,12 @@
 # <h2> 💰Pricing Table Project🚀 <h2/> 
 
 ## 🌟 Overview
-The **Pricing Table** project is a modern, responsive, and visually, effectively attractive web component used to display different pricing plans clearly ,and smothly.  
+The **Pricing Table** project is a modern, responsive, and visually, effectively attractive web component used to display different pricing plans clearly , and smothly.  
 It is ideal for **SaaS products, subscription services, portfolios, and business websites**.
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals:
 ✅ Create a clean and professional pricing layout  
 ✅ Improve frontend UI/UX skills  
 ✅ Practice responsive web design  

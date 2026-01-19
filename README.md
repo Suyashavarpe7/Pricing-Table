@@ -8,7 +8,7 @@ It is ideal for **SaaS products, subscription services, portfolios, and business
 
 ## 🎯 Project Goals:
 ✅ Create a clean and professional pricing layout  
-✅ Improve frontend UI/UX skills  
+✅ Improve frontend UI/ UX skills  
 ✅ Practice responsive web design  
 ✅ Present pricing plans in an engaging way  
 

@@ -5,7 +5,6 @@ The **Pricing Table** project is a modern, responsive, and visually, effectively
 It is ideal for **SaaS products, subscription services, portfolios, and business websites**.
 
 ---
-
 ## 🎯 Project Goals:
 ✅ Create a clean and professional pricing layout  
 ✅ Improve frontend UI/ UX skills  

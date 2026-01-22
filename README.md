@@ -12,7 +12,6 @@ It is ideal for **SaaS products, subscription services, portfolios, and business
 ✅ Present pricing plans in an engaging way  
 
 ---
-
 ## 🛠️ Tech Stack
 🔹 **HTML5** – Page structure  
 🔹 **CSS3** – Styling & layout  

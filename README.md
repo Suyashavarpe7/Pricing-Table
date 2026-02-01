@@ -18,7 +18,6 @@ It is ideal for **SaaS products, subscription services, portfolios, and business
 🔹 **JavaScript** *(optional)* – Interactivity  
 
 ---
-
 ## ✨ Key Features
 🌈 Attractive and modern design  
 📱 Fully responsive (mobile, tablet, desktop)  

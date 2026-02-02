@@ -24,5 +24,3 @@ It is ideal for **SaaS products, subscription services, portfolios, and business
 ⭐ Highlighted “Best Plan”  
 🖱️ Smooth hover effects  
 ⚡ Fast and lightweight  
-
----

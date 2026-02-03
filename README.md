@@ -1,4 +1,4 @@
-# <h2> 💰Pricing Table Project🚀 <h2/> 
+# <h2> 💰Pricing Table Project Demo🚀 <h2/> 
 
 ## 🌟 Overview
 The **Pricing Table** project is a modern, responsive, and visually, effectively attractive web component used to display different pricing plans clearly, smothly.  

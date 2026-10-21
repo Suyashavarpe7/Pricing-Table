@@ -23,5 +23,4 @@ It is ideal for **SaaS products, subscription services, portfolios, business web
 🌈 Attractive and modern design  
 📱 Fully responsive (mobile, tablet,desktop)  
 ⭐ Highlighted “Best Plan”  
-🖱️ Smooth hover effects  
 ⚡ Fast and lightweight  
